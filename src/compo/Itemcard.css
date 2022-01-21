@@ -1,0 +1,15 @@
+.cardform{
+    display: flex;
+    background-color: #F5F5DC;
+    margin: 50px;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+}
+img{
+    width:200px;
+    height: 150px;
+}
+ul{
+    margin: 20px;
+}
